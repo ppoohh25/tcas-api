@@ -181,6 +181,9 @@ async def root():
        "bsru": {"url": "http://202.29.54.207/dev3/admission/index.php",
               "name": "มหาวิทยาลัยราชภัฏบ้านสมเด็จเจ้าพระยา",
               "url_img": "https://media.discordapp.net/attachments/912967297013002281/913046795494494208/fa0572d7d9c89820758251f9305356315ce454bc-4097x2827.png?width=680&height=469"},
+       "kku": {"url": "https://admissions.kku.ac.th/",
+              "name": "มหาวิทยาลัยขอนแก่น",
+              "url_img": "https://cdn.discordapp.com/attachments/910079938936315978/916528100676886558/256194157_603047997676461_2938166091073837676_n-1.png"}
        
        
     }
